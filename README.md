@@ -18,6 +18,6 @@ https://www.pjrc.com/teensy/td_libs_Wire.html)
 
 Written by Wenlong Meng, June 1, 2018
 
-Feel free to re-use and modify these codes in your owm projects.
+Feel free to reuse these codes in your projects.
 Comments and advice are welcomed!
 **********************************************/
