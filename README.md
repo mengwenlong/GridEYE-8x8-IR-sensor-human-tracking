@@ -13,7 +13,7 @@ and track huamn movement. Similary, when a hand waves in front of the IR sensor
 GridEYE sensors use I2C protocol to communicate with Arduino.
 
 Any Ardunio can be used after this sensor is wired to I2C of specific Arduino model
-(e.g. for Arduino Teensy 3.2, SCL is pin 19, SDA is pin 18
+(e.g. for Arduino Teensy 3.2, SCL is pin 19, SDA is pin 18.
 https://www.pjrc.com/teensy/td_libs_Wire.html)
 
 Written by Wenlong Meng, June 1, 2018
