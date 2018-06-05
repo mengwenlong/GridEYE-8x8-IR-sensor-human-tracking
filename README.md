@@ -1,6 +1,7 @@
 # GridEYE-8x8-IR-sensor-human-tracking
 
 /*********************************************
+
 Code library from AMG88xx GridEYE 8x8 IR is included.
 https://github.com/adafruit/Adafruit_AMG88xx
 
