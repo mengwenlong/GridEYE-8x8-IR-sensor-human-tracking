@@ -22,7 +22,7 @@ Comments and advice are welcomed!
 #include <WireKinetis.h>
 #include <Adafruit_AMG88xx.h>
 Adafruit_AMG88xx amg;
-#include <struct_grideye_pbai.h> // Create and put this header file into Arduino libraries folder on your computer
+#include "struct_grideye_pbai.h" // Create and put this header file into Arduino libraries folder on your computer
 
 
 #define noise_threshold 1.5 // an example value of background noise
