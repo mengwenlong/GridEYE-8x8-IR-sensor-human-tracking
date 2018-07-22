@@ -2,6 +2,8 @@
 
 /*********************************************
 
+video demo: https://www.youtube.com/watch?v=70Sbb-rxp00
+
 Code library from AMG88xx GridEYE 8x8 IR is included.
 https://github.com/adafruit/Adafruit_AMG88xx
 
